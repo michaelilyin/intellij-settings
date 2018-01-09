@@ -1,9 +1,0 @@
-<templateSet group="Custom fields">
-  <template name="sqlc" value="public static final String $name$ = &quot;&quot; +&#10;        &quot;$value$&quot;;" toReformat="false" toShortenFQNames="true">
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
-</templateSet>
