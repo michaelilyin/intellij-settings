@@ -1,0 +1,18 @@
+<application>
+  <component name="WebDeploymentTransportHostTargets">
+    <option name="stateHostTargets">
+      <list>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="de62df0b-4286-49e6-98bb-d57852c86994" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="ce966743-2f76-4d6e-875f-4f2f9fb7670b" />
+              <id>ce966743-2f76-4d6e-875f-4f2f9fb7670b</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/home/vagrant" />
+        </WebDeploymentTransportHostTarget>
+      </list>
+    </option>
+  </component>
+</application>
