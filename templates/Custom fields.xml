@@ -1,5 +1,5 @@
 <templateSet group="Custom fields">
-  <template name="sqlc" value="public static final String $name$ = &quot;&quot; +&#10;        &quot;$value$&quot;;" toReformat="false" toShortenFQNames="true">
+  <template name="sqlc" value="// language=PostgreSQL&#10;public static final String $name$ = &quot;&quot; +&#10;        &quot;$value$&quot;;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
