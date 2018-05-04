@@ -2,6 +2,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="angularCliGenerate">
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
