@@ -4,6 +4,7 @@
       <mapping pattern="duplicates" type="PLAIN_TEXT" />
       <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping pattern="PresentationFiltersStore" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
