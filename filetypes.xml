@@ -1,13 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="Jenkinsfile_destroy" type="Groovy" />
-      <removed_mapping pattern="Jenkinsfile" type="Jenkins file" />
       <mapping pattern="duplicates" type="PLAIN_TEXT" />
       <mapping pattern="main" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="PresentationFiltersStore" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
