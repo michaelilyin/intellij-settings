@@ -5,4 +5,23 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="a-sub" value="this.$sub$ = $code$" description="Subscription" toReformat="false" toShortenFQNames="true">
+    <variable name="sub" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="a-uns" value="unsubscribe(this.$sub$);&#10;this.$sub$ = undefined;" description="Unsubscribe" toReformat="false" toShortenFQNames="true">
+    <variable name="sub" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="u-dsu" value="private $sub$: Subscription;" description="Define sub" toReformat="false" toShortenFQNames="true">
+    <variable name="sub" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
