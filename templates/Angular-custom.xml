@@ -1,0 +1,8 @@
+<templateSet group="Angular-custom">
+  <template name="a-prov" value="export const $prov$Provider: Provider = {&#10;    provide: $prov$,&#10;    useClass: $prov$&#10;};&#10;" description="Provider" toReformat="false" toShortenFQNames="true">
+    <variable name="prov" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
