@@ -18,7 +18,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="u-dsu" value="private $sub$: Subscription;" description="Define sub" toReformat="false" toShortenFQNames="true">
+  <template name="a-dsu" value="private $sub$: Subscription;" description="Define sub" toReformat="false" toShortenFQNames="true">
     <variable name="sub" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
